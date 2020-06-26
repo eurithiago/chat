@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "220623888616",
+    "firebase_url": "https://chatflutter-6e53a.firebaseio.com",
+    "project_id": "chatflutter-6e53a",
+    "storage_bucket": "chatflutter-6e53a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220623888616:android:eca28ae2fa4b7d00dbe95d",
+        "android_client_info": {
+          "package_name": "com.derpha.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220623888616-ilm6bhhs0q8v5k95d4nmnq7b8g3qn1pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.derpha.chat",
+            "certificate_hash": "3622156c73915cf1a62e1778d79e76111ede985b"
+          }
+        },
+        {
+          "client_id": "220623888616-5qep0e53df1uisb5uhk2l8d8qdf6fecr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtfoEbHUswCQpD2c6S3OvMFjj2MCg4Exc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220623888616-5qep0e53df1uisb5uhk2l8d8qdf6fecr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
